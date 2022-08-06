@@ -3,4 +3,5 @@ Save Format v3.0(19990112)
  0 "pbrawpdf.pbt";
 @end;
 DefaultTarget "pbrawpdf.pbt";
+DefaultExportEncode "UTF-8";
 DefaultRemoteTarget "pbrawpdf.pbt";
