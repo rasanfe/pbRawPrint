@@ -6,10 +6,10 @@ COM:RSRSYSTEM
 DES:Appeon PowerBuilder 2022 Product File
 CPY:Ramón San Félix Ramón
 PRD:RawPrint
-PVS:2022.0.1818.2
-PVN:2022,0,1818,2
-FVS:2022.0.1818.2
-FVN:2022,0,1818,2
+PVS:2022.0.1878.2
+PVN:2022,0,1878,2
+FVS:2022.0.1878.2
+FVN:2022,0,1878,2
 MAN:0,asInvoker,0
 PBD:pbrawpdf.pbl,,1
 OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,pbrawpdf,a
