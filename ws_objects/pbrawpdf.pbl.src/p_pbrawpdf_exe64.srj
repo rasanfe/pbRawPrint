@@ -1,20 +1,20 @@
 ﻿$PBExportHeader$p_pbrawpdf_exe64.srj
 $PBExportComments$Generated Application Executable Project
-EXE:pbrawpdf64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.0.0.1716
+EXE:pbrawpdf64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.0.0.1878
 CMP:0,0,0,3,0,0,1
 COM:RSRSYSTEM
 DES:Appeon PowerBuilder 2022 Product File
 CPY:Ramón San Félix Ramón
 PRD:RawPrint
-PVS:2022.0.1716.1
-PVN:2022,0,1716,1
-FVS:2022.0.1716.1
-FVN:2022,0,1716,1
+PVS:2022.0.1818.2
+PVN:2022,0,1818,2
+FVS:2022.0.1818.2
+FVN:2022,0,1818,2
 MAN:0,asInvoker,0
 PBD:pbrawpdf.pbl,,1
-OBJ:C:\projecto pw2022\Blog\Actualizado a 2022\pbrawpdf\pbrawpdf.pbl,vs_web_browser,u
-OBJ:C:\projecto pw2022\Blog\Actualizado a 2022\pbrawpdf\pbrawpdf.pbl,nvo_rawprint,u
-OBJ:C:\projecto pw2022\Blog\Actualizado a 2022\pbrawpdf\pbrawpdf.pbl,w_main,w
-OBJ:C:\projecto pw2022\Blog\Actualizado a 2022\pbrawpdf\pbrawpdf.pbl,vuo_dw_impresoras,u
-OBJ:C:\projecto pw2022\Blog\Actualizado a 2022\pbrawpdf\pbrawpdf.pbl,pbrawpdf,a
-OBJ:C:\projecto pw2022\Blog\Actualizado a 2022\pbrawpdf\pbrawpdf.pbl,dw_1,d
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,pbrawpdf,a
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,w_main,w
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,dw_1,d
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,nvo_rawprint,u
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,vuo_dw_impresoras,u
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,vs_web_browser,u
