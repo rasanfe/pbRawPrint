@@ -6,15 +6,15 @@ COM:RSRSYSTEM
 DES:Appeon Power Builder 2022 Product File 64Bits
 CPY:Ramón San Félix Ramón
 PRD:RawPrint2022
-PVS:2022.0.1878.2
-PVN:2022,0,1878,2
-FVS:2022.0.1878.2
-FVN:2022,0,1878,2
+PVS:2022.0.1878.3
+PVN:2022,0,1878,3
+FVS:2022.0.1878.3
+FVN:2022,0,1878,3
 MAN:0,asInvoker,0
 PBD:pbrawpdf.pbl,,1
-OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,pbrawpdf,a
-OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,w_main,w
-OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,dw_1,d
-OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,nvo_rawprint,u
-OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,vuo_dw_impresoras,u
-OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbrawpdf\pbrawpdf.pbl,vs_web_browser,u
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,vuo_dw_impresoras,u
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,vs_web_browser,u
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,w_main,w
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,nvo_rawprint,u
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,dw_1,d
+OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,pbrawpdf,a
