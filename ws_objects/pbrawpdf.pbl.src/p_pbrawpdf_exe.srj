@@ -1,15 +1,15 @@
 ﻿$PBExportHeader$p_pbrawpdf_exe.srj
 $PBExportComments$Generated Application Executable Project
-EXE:pbrawpdf64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.0.0.1878
+EXE:pbrawpdf64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.0.0.1892
 CMP:0,0,0,3,0,0,1
 COM:RSRSYSTEM
 DES:Appeon Power Builder 2022 Product File 64Bits
 CPY:Ramón San Félix Ramón
 PRD:RawPrint2022
-PVS:2022.0.1878.3
-PVN:2022,0,1878,3
-FVS:2022.0.1878.3
-FVN:2022,0,1878,3
+PVS:2022.0.1892.4
+PVN:2022,0,1892,4
+FVS:2022.0.1892.4
+FVN:2022,0,1892,4
 MAN:0,asInvoker,0
 PBD:pbrawpdf.pbl,,1
 OBJ:C:\projecto pw2022\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,vuo_dw_impresoras,u
