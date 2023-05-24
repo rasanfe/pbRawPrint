@@ -11,7 +11,7 @@ global message message
 end forward
 
 global variables
-
+String gs_dir
 end variables
 
 global type pbrawpdf from application
@@ -26,11 +26,16 @@ long richtexteditx64type = 5
 long richtexteditversion = 3
 string richtexteditkey = ""
 string appicon = "icono.ico"
-string appruntimeversion = "22.0.0.1900"
+string appruntimeversion = "22.1.0.2693"
 boolean manualsession = false
 boolean unsupportedapierror = false
+boolean ultrafast = false
 boolean bignoreservercertificate = false
 uint ignoreservercertificate = 0
+long webview2distribution = 0
+boolean webview2checkx86 = false
+boolean webview2checkx64 = false
+string webview2url = "https://developer.microsoft.com/en-us/microsoft-edge/webview2/"
 end type
 global pbrawpdf pbrawpdf
 
@@ -55,6 +60,7 @@ destroy(error)
 destroy(message)
 end on
 
-event open;open(w_main) 
+event open;gs_dir= GetCurrentDirectory() +"\"
+open(w_main) 
 end event
 
