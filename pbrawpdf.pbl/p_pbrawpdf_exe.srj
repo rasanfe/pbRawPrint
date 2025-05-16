@@ -1,0 +1,25 @@
+﻿//objectcomments Generated Application Executable Project
+EXE:pbrawpdf64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 25.0.0.3683
+CMP:0,0,0,3,0,0,1
+COM:RSRSYSTEM
+DES:Appeon Power Builder 2025 Product File 64Bits
+CPY:Ramón San Félix Ramón
+PRD:RawPrint2025
+PVS:2025.1.3683.13
+PVN:2025,1,3683,13
+FVS:2025.1.3683.13
+FVN:2025,1,3683,13
+MAN:0,asInvoker,0
+PBD:pbrawpdf.pbl,,1
+PBD:dotnet.pbl,,1
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,dw_1,d
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\dotnet.pbl,nvo_rawprint,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,w_print_dialog,w
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,vuo_dw_impresoras,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,w_print_preview,w
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,w_main,w
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,nvo_fileservice,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,n_cst_pdfdocument,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,n_cst_string,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,vs_web_browser,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbRawPrint\pbrawpdf.pbl,pbrawpdf,a
