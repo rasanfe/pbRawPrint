@@ -1,0 +1,65 @@
+﻿{
+    "appicon": "icono.ico",
+    "appfonts": [
+        {
+            "height": -10,
+            "weight": 400,
+            "italic": 0,
+            "underline": 0,
+            "characterSet": 0,
+            "pitchfamily": 34,
+            "facename": "Tahoma"
+        },
+        {
+            "height": -10,
+            "weight": 400,
+            "italic": 0,
+            "underline": 0,
+            "characterSet": 0,
+            "pitchfamily": 34,
+            "facename": "Tahoma"
+        },
+        {
+            "height": -10,
+            "weight": 400,
+            "italic": 0,
+            "underline": 0,
+            "characterSet": 0,
+            "pitchfamily": 34,
+            "facename": "Tahoma"
+        },
+        {
+            "height": -10,
+            "weight": 400,
+            "italic": 0,
+            "underline": 0,
+            "characterSet": 0,
+            "pitchfamily": 34,
+            "facename": "Tahoma"
+        }
+    ],
+    "textcolor": 33554432,
+    "backgroundcolor": 1073741824,
+    "tx-control": {
+        "type": 5,
+        "version": 3,
+        "keys": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    }
+}
