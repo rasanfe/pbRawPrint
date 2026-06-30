@@ -1,3 +1,9 @@
 /pbrawpdf.usr.opt
-/pbrawpdf.xml
-/pbrawpdf64.xml
+
+# Regenerables de PowerBuilder (no versionar) - anadido por mantenimiento
+.pb/
+build/
+*.pbd
+*.exe
+*.usr.opt
+*_mig.log
